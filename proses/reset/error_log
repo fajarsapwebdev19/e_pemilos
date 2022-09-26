@@ -1,0 +1,2 @@
+[12-Mar-2022 16:13:44 Asia/Jakarta] PHP Warning:  unlink(../../assets/upload/1080499527_pexels-lukas-574069.jpg): No such file or directory in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/reset/all_data.php on line 11
+[12-Mar-2022 16:13:44 Asia/Jakarta] PHP Warning:  unlink(../../assets/upload/771061246_pexels-danny-meneses-943096.jpg): No such file or directory in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/reset/all_data.php on line 11

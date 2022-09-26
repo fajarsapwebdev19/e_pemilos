@@ -1,0 +1,32 @@
+[30-Aug-2022 09:18:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/export/siswa.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/export/siswa.php on line 94
+[30-Aug-2022 09:18:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/export/siswa.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/export/siswa.php on line 94
+[30-Aug-2022 09:18:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/export/siswa.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/export/siswa.php on line 94
+[30-Aug-2022 09:18:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/export/siswa.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/export/siswa.php on line 94
+[30-Aug-2022 09:18:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/export/siswa.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/export/siswa.php on line 94
+[30-Aug-2022 09:19:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/export/gtk.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/export/gtk.php on line 99
+[30-Aug-2022 09:19:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/export/siswa.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/export/siswa.php on line 94
+[30-Aug-2022 09:19:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/export/siswa.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/export/siswa.php on line 94

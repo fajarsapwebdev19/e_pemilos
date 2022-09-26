@@ -1,0 +1,4 @@
+[27-Mar-2022 06:26:50 Asia/Jakarta] PHP Warning:  unlink(../../assets/upload/378327142_2021-01-11 at 13-45-35.png): No such file or directory in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/hapus/kandidat.php on line 14
+[22-Aug-2022 10:14:16 Asia/Jakarta] PHP Notice:  Undefined index: username_lama in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/hapus/siswa.php on line 8
+[22-Aug-2022 10:14:16 Asia/Jakarta] PHP Notice:  Undefined variable: username_tujuan in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/hapus/siswa.php on line 10
+[22-Aug-2022 10:16:43 Asia/Jakarta] PHP Warning:  unlink(../../assets/img/): Is a directory in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/hapus/account.php on line 15

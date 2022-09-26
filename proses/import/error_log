@@ -1,0 +1,7 @@
+[30-Aug-2022 09:22:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:63
+Stack trace:
+#0 /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php(158): PhpOffice\PhpSpreadsheet\Shared\File::fileExists('zip:///tmp/phpI...')
+#1 /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php(388): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('/tmp/phpITYtPy', '_rels/.rels')
+#2 /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/proses/import/siswa.php(42): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('/tmp/phpITYtPy')
+#3 {main}
+  thrown in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 63

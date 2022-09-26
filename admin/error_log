@@ -1,0 +1,64 @@
+[12-Mar-2022 09:04:12 UTC] PHP Notice:  Undefined index: status_akun in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 6
+[12-Mar-2022 09:04:23 UTC] PHP Notice:  Undefined index: status_akun in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 6
+[12-Mar-2022 09:04:27 UTC] PHP Notice:  Undefined index: status_akun in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 6
+[12-Mar-2022 09:04:30 UTC] PHP Notice:  Undefined index: status_akun in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 6
+[12-Mar-2022 09:04:49 UTC] PHP Notice:  Undefined index: status_akun in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 6
+[23-Mar-2022 13:29:08 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 12
+[23-Mar-2022 13:29:09 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 19
+[23-Mar-2022 13:29:09 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 118
+[23-Mar-2022 13:29:09 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 123
+[23-Mar-2022 13:29:09 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 135
+[23-Mar-2022 13:29:09 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 14
+[23-Mar-2022 13:29:09 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 20
+[23-Mar-2022 13:29:09 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 36
+[23-Mar-2022 13:29:09 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 41
+[23-Mar-2022 13:29:09 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 46
+[23-Mar-2022 13:29:09 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 51
+[26-Mar-2022 20:10:18 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 12
+[26-Mar-2022 20:10:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 19
+[26-Mar-2022 20:10:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 118
+[26-Mar-2022 20:10:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 123
+[26-Mar-2022 20:10:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 135
+[26-Mar-2022 20:10:18 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/kandidat.php on line 14
+[26-Mar-2022 20:10:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/kandidat.php on line 20
+[26-Mar-2022 20:10:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/kandidat.php on line 36
+[26-Mar-2022 20:10:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/kandidat.php on line 41
+[26-Mar-2022 20:10:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/kandidat.php on line 46
+[26-Mar-2022 20:10:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/kandidat.php on line 51
+[26-Mar-2022 20:10:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/page/kandidat.php on line 8
+[26-Mar-2022 20:10:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/page/kandidat.php on line 119
+[30-Mar-2022 13:14:26 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 12
+[30-Mar-2022 13:14:26 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 19
+[30-Mar-2022 13:14:26 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 118
+[30-Mar-2022 13:14:26 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 123
+[30-Mar-2022 13:14:26 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 135
+[30-Mar-2022 13:14:26 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 14
+[30-Mar-2022 13:14:26 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 20
+[30-Mar-2022 13:14:26 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 36
+[30-Mar-2022 13:14:26 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 41
+[30-Mar-2022 13:14:26 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 46
+[30-Mar-2022 13:14:26 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 51
+[28-Aug-2022 10:37:18 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 12
+[28-Aug-2022 10:37:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 19
+[28-Aug-2022 10:37:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 111
+[28-Aug-2022 10:37:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 116
+[28-Aug-2022 10:37:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 128
+[28-Aug-2022 10:37:18 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 14
+[28-Aug-2022 10:37:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 20
+[28-Aug-2022 10:37:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 36
+[28-Aug-2022 10:37:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 41
+[28-Aug-2022 10:37:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 46
+[28-Aug-2022 10:37:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/home.php on line 51
+[30-Aug-2022 09:18:42 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 12
+[30-Aug-2022 09:18:42 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 19
+[30-Aug-2022 09:18:42 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 111
+[30-Aug-2022 09:18:42 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 116
+[30-Aug-2022 09:18:42 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/index.php on line 128
+[30-Aug-2022 09:18:42 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/siswa.php on line 14
+[30-Aug-2022 09:18:42 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/siswa.php on line 20
+[30-Aug-2022 09:18:42 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/siswa.php on line 36
+[30-Aug-2022 09:18:42 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/siswa.php on line 41
+[30-Aug-2022 09:18:42 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/siswa.php on line 46
+[30-Aug-2022 09:18:42 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/sidebar/siswa.php on line 51
+[30-Aug-2022 09:18:42 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/page/siswa.php on line 8
+[30-Aug-2022 09:18:42 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/osis.smkpgrineglasari.com/e-pemilos/admin/template/page/siswa.php on line 131
